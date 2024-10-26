@@ -1,0 +1,77 @@
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Users\u22136\Desktop\22136_22143_Proj2\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+Z:\EDI\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Users\u22143\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Users\Hugo\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Users\u22136\Desktop\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+C:\Temp\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Temp\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Temp\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Temp\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe.config
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.exe
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\bin\Debug\22136_22143_Proj2.pdb
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.AssemblyReference.cache
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Form1.resources
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\_22136_22143_Proj2.Properties.Resources.resources
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.GenerateResource.cache
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.exe
+C:\Users\dudap\OneDrive\Área de Trabalho\Grafo_Trens\22136_22143_Proj2\obj\Debug\22136_22143_Proj2.pdb

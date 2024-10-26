@@ -1,0 +1,54 @@
+A Coruna       0,19500,1510
+Albacete       0,60900,6090
+Alicante       0,69700,6750
+Barcelona      0,86400,3630
+Bilbao         0,54200,1640
+Braga          0,19400,3440
+Burgos         0,49400,2610
+Caceres        0,32400,5610
+Cadiz          0,32700,8540
+Cartagena      0,66600,7510
+Castelo Branco 0,25200,5240
+Coimbra        0,19300,4850
+Cordoba        0,42500,7210
+El Ejido       0,55000,8320
+Gijon          0,36900,1310
+Girona         0,90700,2990
+Granada        0,49800,7910
+Guadalajara    0,52700,4430
+Guarda         0,26600,4520
+Huelva         0,28700,7840
+hugo           0,28800,7070
+Jaen           0,48800,7340
+Leon           0,37500,2350
+Lisboa         0,14800,6380
+Lleida         0,76800,3390
+Logrono        0,57200,2490
+Lorca          0,61900,7420
+Loule          0,21800,7960
+Lugo           0,24800,1920
+Madrid         0,49200,4620
+Malaga         0,44600,8370
+Mataro         0,88200,3500
+Montpellier    0,97600,1260
+Murcia         0,65500,7100
+Ourense        0,22900,2610
+Oviedo         0,35600,1520
+Pau            0,70300,1590
+Perpignan      0,91100,2230
+Pombal         0,17900,5170
+Ponferrada     0,31000,2400
+Porto          0,18000,3880
+Salamanca      0,36800,4070
+San Sebastian  0,60100,1560
+Santander      0,48700,1410
+Santiago de C. 0,18500,2060
+Sevilha        0,34700,7700
+Tarragona      0,80600,3910
+Toledo         0,47100,5210
+Toulouse       0,81700,1260
+Valencia       0,70200,5610
+Valladolid     0,42500,3340
+Vigo           0,17400,2720
+Viseu          0,22500,4390
+Zaragoza       0,67200,3340
