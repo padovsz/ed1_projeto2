@@ -1,4 +1,4 @@
-# 🚉 Projeto 2 - Estrutura de Dados I
+# 🚉 Projeto 2 - Estrutura de Dados II
 Projeto do professor Francisco Rodrigues, desenvolvido para a matéria de Estrutura de Dados I durante o 3º Semestre do curso de Informática no Colégio Técnico de Campinas.
 
 ## 👤Integrantes
